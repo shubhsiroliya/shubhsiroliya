@@ -7,7 +7,7 @@ Aspiring Software Developer
 
 * 🌍  I'm from Ujjain, Madhya Pradesh
 * ✉  You can contact me at [siroliya.shubh@gmail.com](mailto:harshitkumar454@gmail.com)
-* 🤝 Final Year B.Tech. Undergraduate pursuing Computer Science & Engineering from IIIT Surat . Having a grasp of DSA & problem solving. Looking to work in a competitive & goal oriented environment.
+* 🤝 B.Tech. from IIIT Surat in Computer Science & Engineering 23 Passout. Having a grasp of DSA & MERN. Looking for Software Developer, Frontend Developer, Backend Developer roles.
 
 ### Skills
 
